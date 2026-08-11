@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hi, I'm Alessandro — just starting my MSc in Data Science & Management @ LUISS.<br><br>
-I mess around with data science and risk modeling.<br><br>
+I like to mess around with data science and risk modeling.<br><br>
 🔭 I'm currently working on — GARCH dynamic VaR and a credit risk scorecard (PD model)<br><br>🌱 I'm currently learning — Credit risk modeling & model validation (IFRS 9, Basel, PD/LGD/EAD)<br><br>💬 Ask me about — Market/credit risk modeling, GNNs for financial distress, Python, R & SQL<br><br>⚡ In my free time — Learning Polish (na razie just dzień dobry) and pretending to play guitar 🎸
 
 ## 🌐 Socials:
